@@ -1,0 +1,25 @@
+{
+  "name": "OnFinalityDocumentation",
+  "version": "0.0.1",
+  "description": "Documentation, tutorials, and other support material for OnFinality",
+  "main": "index.js",
+  "authors": {
+    "name": "OnFinality Limited",
+    "email": "support@onfinality.io"
+  },
+  "repository": "https://github.com/OnFinality-io/documentation",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src",
+    "docs:build": "vuepress build hope",
+    "docs:clean-dev": "vuepress dev hope --no-cache",
+    "docs:dev": "vuepress dev hope",
+    "docs:eject-theme": "vuepress eject-hope hope"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.8.2",
+    "vuepress-plugin-fulltext-search": "^2.2.1",
+    "vuepress-theme-hope": "^1.20.3"
+  }
+}
