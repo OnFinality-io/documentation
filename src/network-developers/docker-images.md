@@ -19,10 +19,11 @@ For a Docker container to run on OnFinality the image must:
 
 ### Recommendations
 
-{{< hint info >}}
+:: info
+
 **Official Release**  
 Users of your network will have more confidence when they know the available image is developed by the same developers as those who create the network.
-{{< /hint >}}
+
 
 
 
