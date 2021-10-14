@@ -5,6 +5,9 @@ module.exports = config({
   description:
     "Documentation, tutorials, and other support material for OnFinality",
   themeConfig: {
+    mdEnhance: {
+      enableAll: true,
+    },
     repo: "https://github.com/OnFinality-io/documentation",
     editLinks: false,
     docsDir: "",
