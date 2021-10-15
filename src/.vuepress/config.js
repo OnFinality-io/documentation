@@ -39,9 +39,10 @@ module.exports = config({
         collapsable: false,
         children: [
           "/getting-started/",
+          "/getting-started/create-an-account.md",
           "/getting-started/login.md",
           "/getting-started/deploy-node.md",
-          "/getting-started/api-service.md",
+          "/getting-started/api-service.md"
         ],
       },
       {
