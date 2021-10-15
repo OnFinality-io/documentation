@@ -8,13 +8,11 @@ OnFinality makes it really easy to create new nodes on various supported network
 
 [Login](https://app.onfinality.io/) to your OnFinality account and go to the *Nodes List *page. Here click on *Create New *up in the top right of your screen.
 
-![mceclip2.png](https://support.onfinality.io/hc/article_attachments/900004596546/mceclip2.png)
 
 ## Select a Network
 
 The first page will allow you to select what network you want to create a new node in. This list will show both public networks that OnFinality supports, and also any private or custom network that you've already added. Today we're going to create a Kusama network, so we'll click on *Polkadot - Kusama.*
 
-_![mceclip3.png](https://support.onfinality.io/hc/article_attachments/900005542123/mceclip3.png)_
 
 ## Configure your New Node
 
@@ -26,7 +24,7 @@ Lastly, I'm going to change the *Node Specification*. We strongly suggest follo
 
 Because I'm using this node just to test that I can get up and running on Kusama, I'm going to change my node specification to 2 Units, and select a 40GB storage size. You should consult the network's own documentation for minimum sizes and best practices
 
-![mceclip2.png](https://support.onfinality.io/hc/article_attachments/900002126226/mceclip2.png)
+
 
 Now that we've configured our new node, I'm going to click *Next*.
 
@@ -34,7 +32,6 @@ Now that we've configured our new node, I'm going to click *Next*.
 
 The last step shows you all the settings about your new node, you can go back to change any details or click *Create Node* to provision your new node on your selected cloud.
 
-![mceclip3.png](https://support.onfinality.io/hc/article_attachments/900002093843/mceclip3.png)
 
 ## Select Billing Method
 
@@ -42,10 +39,10 @@ Select your billing method for this node using the checkbox provided and then cl
 
 If you haven't already added billing details to your account, and you're not on a premiere plan you'll need to add a credit card. Click *Add new payment method *and enter your details on the secure popup.
 
-![mceclip4.png](https://support.onfinality.io/hc/article_attachments/900002094143/mceclip4.png)
+
 
 ## Congratulations, now go and build your dApp!
 
 Back on your Nodes list, you'll see your new node appear. It will take a few minutes to initialise but you can click on it to view its details.
 
-![mceclip5.png](https://support.onfinality.io/hc/article_attachments/900002094223/mceclip5.png)
+

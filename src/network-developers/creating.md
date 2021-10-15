@@ -36,4 +36,3 @@ Once you've entered all details on this page, click *Submit.*
 You'll now see the custom network you've joined in your Networks page. Now you can go to the Nodes page and [create a new node in your new network.](https://support.onfinality.io/hc/en-us/articles/900001593946)
 
 3. Chose the spec of bootnode. Note: location decides where your network and all the nodes to join the network sit.
-   ![mceclip4.png](https://support.onfinality.io/hc/article_attachments/900001489263/mceclip4.png)
