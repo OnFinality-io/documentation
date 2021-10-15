@@ -18,6 +18,6 @@ In this tutorial, you will learn how to redeem a coupon for services by OnFinali
 ## Steps
 
 1. Navigate to [My account](https://app.onfinality.io/account) page.
-1. In the Coupons section, click *Redeem*.
+1. In the Coupons section, click `Redeem`.
 1. Enjoy!
 
