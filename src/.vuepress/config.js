@@ -29,11 +29,6 @@ module.exports = config({
     sidebarDepth: 3,
     sidebar: [
       {
-        path: "/",
-        title: "Welcome to SubQuery",
-        collapsable: false,
-      },
-      {
         path: "/getting-started",
         title: "Getting Started",
         collapsable: false,
