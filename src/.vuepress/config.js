@@ -50,8 +50,10 @@ module.exports = config({
         title: "Network Developers",
         collapsable: false,
         children: [
+          "/network-developers/become-a-partner.md",
           "/network-developers/creating.md",
           "/network-developers/api-upgrade.md",
+          "/network-developers/docker-images"
         ],
       },
     ],
