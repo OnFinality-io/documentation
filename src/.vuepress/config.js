@@ -41,6 +41,18 @@ module.exports = config({
         ],
       },
       {
+        path: "/sub0-workshop-recipes",
+        title: "Sub0 Workshop Recipes",
+        collapsable: false,
+        children: [
+          "/getting-started/",
+          "/getting-started/create-an-account.md",
+          "/getting-started/login.md",
+          "/getting-started/deploy-node.md",
+          "/getting-started/api-service.md"
+        ],
+      },
+      {
         path: "/network-developers/creating",
         title: "Network Developers",
         collapsable: false,
