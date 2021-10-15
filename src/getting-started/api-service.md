@@ -19,7 +19,10 @@ Registering and getting access to the API Service only takes a few minutes - we'
 
 ### Login to OnFinality
 
-First, go to [app.onfinality.io](https://app.onfinality.io/login) to create an account in OnFinality or log on using your existing account if you already have one. [Logging into OnFinality](https://support.onfinality.io/hc/en-us/articles/900000478026)
+
+If you dont yet have an account, see how to [Create an account](create-an-account.md)
+
+First, go to [app.onfinality.io](https://app.onfinality.io/login) to create an account in OnFinality or log on using your existing account if you already have one. [Logging into OnFinality](login.md)
 
 Once you're in, go to to the *API Service *page.
 
@@ -44,7 +47,7 @@ The usage graph shows you the volume of API requests made to your account over t
 
 ## Connect to your API Service
 
-Once you have your [API service enabled and running](https://support.onfinality.io/hc/en-us/articles/900004222183) (see [API Service - Getting Started](https://support.onfinality.io/hc/en-us/articles/900004222183)) you can now connect to it and start using it in your dApps.
+Once you have your API service enabled and running you can now connect to it and start using it in your dApps.
 
 We're going to use the Polkadot/Substrate Portal to connect to our API service, but these instructions will also work for other similar methods.
 
