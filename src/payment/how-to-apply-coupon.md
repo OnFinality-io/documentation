@@ -5,10 +5,10 @@ draft: False
 ---
 # How to Apply a Coupon
 
-{{< hint info >}}
+:: tip
 **Add Payment Method**  
 Before you can redeem a voucher you will need to have added at least one Payment Method.
-{{< /hint >}}
+
 
 ## Introduction
 
