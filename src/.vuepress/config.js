@@ -53,6 +53,14 @@ module.exports = config({
         ],
       },
       {
+        path: "Recipes",
+        title: "Recipes",
+        collapsable: false,
+        children: [
+          "/recipes/integrate-into-ci-cd.md"
+        ]
+      },
+      {
         path: "/network-developers/creating",
         title: "Network Developers",
         collapsable: false,
