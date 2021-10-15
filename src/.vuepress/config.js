@@ -56,6 +56,15 @@ module.exports = config({
           "/network-developers/docker-images"
         ],
       },
+      {
+        path: "/payment",
+        title: "Payments",
+        collapsable: false,
+        children: [
+          "/payment/add-payment-method.md",
+          "/payment/how-to-apply-coupon.md",
+        ],
+      },
     ],
   },
   plugins: ["@vuepress/plugin-back-to-top", "fulltext-search"],
