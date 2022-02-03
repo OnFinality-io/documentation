@@ -5,6 +5,8 @@ module.exports = config({
   description:
     "Documentation, tutorials, and other support material for OnFinality",
   themeConfig: {
+    themeColor: false,
+    darkmode: 'disable',
     mdEnhance: {
       enableAll: true,
     },
