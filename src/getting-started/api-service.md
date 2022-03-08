@@ -53,7 +53,6 @@ We're going to use the Polkadot/Substrate Portal to connect to our API service, 
 
 Head to [PolkadotJS UI](https://polkadot.js.org/apps/#/accounts), and then to the Explorer tab under Network, and on the top of your screen click on the Polkadot Icon.
 
-
 This will open the Network switcher which will allow you to select the network that you connect to. You can add your OnFinality API service endpoint to the Development section by pasting the websocket connection URL into the custom endpoint field and clicking on the save icon.
 
 Congratulations, you're not connected and can start making calls with the Polkadot/Substrate UI App. We can't wait to see that you start building!
