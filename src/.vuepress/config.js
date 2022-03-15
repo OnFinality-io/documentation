@@ -39,6 +39,7 @@ module.exports = config({
           "/getting-started/create-an-account.md",
           "/getting-started/login.md",
           "/getting-started/deploy-node.md",
+          "/getting-started/lightning-restore.md",
           "/getting-started/api-service.md"
         ],
       },
