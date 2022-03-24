@@ -5,6 +5,11 @@ on:
     branches:
       - main
   workflow_dispatch:
+    inputs:
+      environment:
+        description: 'Deploy to [Dev].'
+        default: Dev
+        required: true
 
 jobs:
   dev:
